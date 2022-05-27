@@ -1,8 +1,4 @@
-## Welcome to GitHub Pages
+عن اسم الفريق
+أنا البحر قصيدةٌ للشاعِرِ المِصريّ الراحل حافظ إبراهيم الملقب بشاعرِ النيل. كتب حافظ القصيدةَ على لسانِ اللغةِ العربيةِ وهي تنعي حظَّها بينَ أهلِها، قائلةً:
 
-
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-
+أنَا البَحرُ في أحشائِهِ الدُّرُّ كامِنٌ    ---   فهَل سَألوُا الغَوَّاصَ عَن صدَفَاتي؟
