@@ -1,8 +1,18 @@
-## Welcome to GitHub Pages
+# أنا البحر
+https://mareloraby.github.io/ana-albahr/
 
+### عن اسم الفريق
+ أنا البحر قصيدةٌ للشاعِرِ المِصريّ الراحل حافظ إبراهيم الملقب بشاعرِ النيل. كتب حافظ القصيدةَ على لسانِ اللغةِ العربيةِ وهي تنعي حظَّها بينَ أهلِها، قائلةً:
 
+أنَا البَحرُ في أحشائِهِ الدُّرُّ كامِنٌ    ---   فهَل سَألوُا الغَوَّاصَ عَن صدَفَاتي؟
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### أعضاء الفريق
 
+نهال الكارف
 
+سلمى الشافعي
+
+مريم العرابي
+
+د. ميرفت أبو الخير
 
