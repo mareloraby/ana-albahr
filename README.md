@@ -7,6 +7,8 @@ https://mareloraby.github.io/ana-albahr/
 أنَا البَحرُ في أحشائِهِ الدُّرُّ كامِنٌ    ---   فهَل سَألوُا الغَوَّاصَ عَن صدَفَاتي؟
 
 ---
+The model is still being deployed. The current work is a mock-up for a user interface.
+---
 
 ### أعضاء الفريق
 
