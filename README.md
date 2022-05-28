@@ -1,5 +1,5 @@
 # أنا البحر
-https://mareloraby.github.io/ana-albahr/
+https://mareloraby.github.io/ana-albahr/  ( The trained and fine-tuned models are still being deployed. The current deployed work is a UI mock-up )
 
 <a href="https://www.kaggle.com/datasets/ahmedabelal/arabic-poetry"> Dataset البيانات</a>
 
@@ -26,7 +26,4 @@ https://mareloraby.github.io/ana-albahr/
 مريم العرابي
 
 
----
-#### The trained and fine-tuned models are still being deployed. The current deployed work is a mock-up for a user interface.
----
 
