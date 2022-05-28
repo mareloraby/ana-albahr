@@ -1,9 +1,9 @@
 # أنا البحر
-https://mareloraby.github.io/ana-albahr/  ( The trained and fine-tuned models are still being deployed. The current deployed work is a UI mock-up )
+https://mareloraby.github.io/ana-albahr/  ( The current deployed work is a UI mock-up, and a model AraGPT-2 fine-tuned to generate 1 line of poetry based on an input . )
 
 <a href="https://www.kaggle.com/datasets/ahmedabelal/arabic-poetry"> Dataset البيانات</a>
 
-<a href="https://huggingface.co/nehalelkaref/poem_generator"> لتوليد الشعر عن طريق إدخال مطلع انقر هنا</a>
+<a href="https://huggingface.co/nehalelkaref/poem_generator"> لتوليد الشعر عن طريق إدخال مطلع انقر هنا </a>
 
 
 
