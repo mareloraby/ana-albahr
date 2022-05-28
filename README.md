@@ -27,6 +27,6 @@ https://mareloraby.github.io/ana-albahr/
 
 
 ---
-#### The model is still being deployed. The current work is a mock-up for a user interface.
+#### The trained and fine-tuned model are still being deployed. The current deployed work is a mock-up for a user interface.
 ---
 
