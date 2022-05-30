@@ -1,5 +1,6 @@
 # أنا البحر
-https://mareloraby.github.io/ana-albahr/  ( The current deployed work is a UI mock-up, and a model AraGPT-2 fine-tuned to generate 1 line of poetry based on an input . )
+
+https://mareloraby.github.io/ana-albahr/  ( The current deployed work is a UI mock-up, and a AraGPT-2 fine-tuned model to generate 1 line of poetry based on an input . )
 
 <a href="https://www.kaggle.com/datasets/ahmedabelal/arabic-poetry"> Dataset البيانات</a>
 
